@@ -2,5 +2,5 @@
 // You can write your code in this editor
 
 function interact(){
-	room_goto(1);	
+	room_goto(2);	
 }
