@@ -111,7 +111,7 @@
               2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,-44,-2147483648,20,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,-44,-2147483648,
               20,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,-44,-2147483648,20,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,
               1,-44,-2147483648,20,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,2,3,-1450,-2147483648,
-            ],"TileDataFormat":1,},"tilesetId":null,"userdefinedDepth":true,"visible":false,"x":0,"y":0,},
+            ],"TileDataFormat":1,},"tilesetId":{"name":"TileSet14","path":"tilesets/TileSet14/TileSet14.yy",},"userdefinedDepth":true,"visible":false,"x":0,"y":0,},
         {"$GMRTileLayer":"","%Name":"purple_floor","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"purple_floor","properties":[],"resourceType":"GMRTileLayer","resourceVersion":"2.0","tiles":{"SerialiseHeight":44,"SerialiseWidth":64,"TileCompressedData":[
               -130,-2147483648,20,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,-44,-2147483648,20,2,3,2,3,2,3,2,3,2,3,2,
               3,2,3,2,3,2,3,2,3,-44,-2147483648,20,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,3,1,-44,-2147483648,20,2,3,

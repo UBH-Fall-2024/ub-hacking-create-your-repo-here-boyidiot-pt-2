@@ -3,4 +3,6 @@
 draw_set_halign(fa_center)
 draw_set_valign(fa_center)
 draw_set_font(Font_Front_1)
-draw_text(text.x,text.y,sprite_get_name(global.list[global.iter]))
+var name = sprite_get_name(global.list[global.iter]);
+name = string_replace(name,"_"," ");
+draw_text(text.x,text.y,name)
