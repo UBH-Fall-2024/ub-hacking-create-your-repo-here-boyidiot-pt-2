@@ -110,7 +110,7 @@
     "9647":{"character":9647,"h":26,"offset":4,"shift":19,"w":12,"x":30,"y":114,},
   },
   "hinting":0,
-  "includeTTF":false,
+  "includeTTF":true,
   "interpreter":0,
   "italic":false,
   "kerningPairs":[],
@@ -138,6 +138,6 @@
     "name":"Default",
     "path":"texturegroups/Default",
   },
-  "TTFName":"",
+  "TTFName":"C:\\Users\\westp\\Desktop\\Coding Projects\\ub-hacking-create-your-repo-here-boyidiot-pt-2\\Game\\fonts\\Font_Front\\blocks-serif.ttf",
   "usesSDF":false,
 }
