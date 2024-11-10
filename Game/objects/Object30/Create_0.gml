@@ -1,8 +1,5 @@
 /// @description Insert description here
 // You can write your code in this editor
+event_inherited();
 
-objectName = "empty";
-
-function interact(name){
-	room_goto(2);	
-}
+objectName = "kitchen";

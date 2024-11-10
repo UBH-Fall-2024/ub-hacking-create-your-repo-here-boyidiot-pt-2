@@ -1,6 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+image_index = real(global.frames[$ objectName]);
 draw_self();
 
 if (distance_to_object(Player) <= 16){

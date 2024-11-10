@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"Object30",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"Object30",
   "overriddenProperties":[],
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"kitchensink",
-    "path":"sprites/kitchensink/kitchensink.yy",
+    "name":"kitchen_sink",
+    "path":"sprites/kitchen_sink/kitchen_sink.yy",
   },
   "spriteMaskId":null,
   "visible":true,

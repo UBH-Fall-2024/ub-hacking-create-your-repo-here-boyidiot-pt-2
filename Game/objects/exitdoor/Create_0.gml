@@ -3,3 +3,5 @@
 function interact(){
 	room_goto(3)
 }
+
+objectName = "empty";

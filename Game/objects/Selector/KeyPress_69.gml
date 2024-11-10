@@ -3,7 +3,8 @@
 var isFloor = false;
 
 if (idx < array_length(global.inventoryElements)){
-	sprite = global.inventoryElements[idx];
+	struct = global.inventoryElements[idx];
+	sprite = struct.sprite;
 	//array_delete(global.inventoryElements, idx, 1);
 
 	spriteName = sprite_get_name(sprite);
@@ -17,6 +18,10 @@ if (idx < array_length(global.inventoryElements)){
 		{
 			inst = instance_find(Floor,i);
 			if (Player.x > inst.x && Player.x < inst.x+inst.sprite_width && Player.y > inst.y && Player.y < inst.y + inst.sprite_height){
+				if(global.floorPattern[i] != spriteName){
+					global.budget -= 20;
+					global.completed[3] = true;
+				}
 				global.floorPattern[i] = spriteName;
 			}
 		}	
