@@ -1,18 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"Object27",
+  "%Name":"Uninteractable",
   "eventList":[],
   "managed":true,
-  "name":"Object27",
+  "name":"Uninteractable",
   "overriddenProperties":[],
   "parent":{
     "name":"furniture",
     "path":"folders/Objects/furniture.yy",
   },
-  "parentObjectId":{
-    "name":"Uninteractable",
-    "path":"objects/Uninteractable/Uninteractable.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -29,11 +26,8 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":true,
-  "spriteId":{
-    "name":"oven",
-    "path":"sprites/oven/oven.yy",
-  },
+  "solid":false,
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

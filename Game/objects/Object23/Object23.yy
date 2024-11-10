@@ -9,7 +9,10 @@
     "name":"furniture",
     "path":"folders/Objects/furniture.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Uninteractable",
+    "path":"objects/Uninteractable/Uninteractable.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

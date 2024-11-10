@@ -9,7 +9,10 @@
     "name":"furniture",
     "path":"folders/Objects/furniture.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Uninteractable",
+    "path":"objects/Uninteractable/Uninteractable.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -26,7 +29,7 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"sink",
     "path":"sprites/sink/sink.yy",
