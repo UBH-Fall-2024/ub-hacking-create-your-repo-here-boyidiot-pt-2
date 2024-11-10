@@ -1,0 +1,1 @@
+audio_play_sound(monkey,1,true)
