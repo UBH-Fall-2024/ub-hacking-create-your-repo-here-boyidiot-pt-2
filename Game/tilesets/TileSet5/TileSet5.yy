@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_blue",
-    "path":"sprites/tile_blue/tile_blue.yy",
+    "name":"blue_floor",
+    "path":"sprites/blue_floor/blue_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

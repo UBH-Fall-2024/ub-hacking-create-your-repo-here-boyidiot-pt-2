@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_birch",
-    "path":"sprites/tile_birch/tile_birch.yy",
+    "name":"backup_birch",
+    "path":"sprites/backup_birch/backup_birch.yy",
   },
   "spriteNoExport":true,
   "textureGroupId":{

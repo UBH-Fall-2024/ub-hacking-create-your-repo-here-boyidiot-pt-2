@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_maple",
-    "path":"sprites/tile_maple/tile_maple.yy",
+    "name":"maple_floor",
+    "path":"sprites/maple_floor/maple_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

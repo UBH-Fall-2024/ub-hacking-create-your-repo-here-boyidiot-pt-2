@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_red",
-    "path":"sprites/tile_red/tile_red.yy",
+    "name":"red_floor",
+    "path":"sprites/red_floor/red_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

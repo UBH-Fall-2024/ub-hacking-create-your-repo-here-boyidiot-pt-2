@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_lenolium",
-    "path":"sprites/tile_lenolium/tile_lenolium.yy",
+    "name":"lenolium_floor",
+    "path":"sprites/lenolium_floor/lenolium_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

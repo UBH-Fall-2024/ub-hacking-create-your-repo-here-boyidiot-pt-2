@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_redwood",
-    "path":"sprites/tile_redwood/tile_redwood.yy",
+    "name":"redwood_floor",
+    "path":"sprites/redwood_floor/redwood_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

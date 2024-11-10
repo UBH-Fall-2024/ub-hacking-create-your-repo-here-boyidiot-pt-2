@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_yellow",
-    "path":"sprites/tile_yellow/tile_yellow.yy",
+    "name":"yellow_floor",
+    "path":"sprites/yellow_floor/yellow_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

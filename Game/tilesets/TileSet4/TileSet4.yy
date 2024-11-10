@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_pink",
-    "path":"sprites/tile_pink/tile_pink.yy",
+    "name":"pink_floor",
+    "path":"sprites/pink_floor/pink_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

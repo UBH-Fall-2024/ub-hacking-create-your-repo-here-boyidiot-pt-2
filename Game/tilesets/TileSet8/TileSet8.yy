@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_purple",
-    "path":"sprites/tile_purple/tile_purple.yy",
+    "name":"purple_floor",
+    "path":"sprites/purple_floor/purple_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

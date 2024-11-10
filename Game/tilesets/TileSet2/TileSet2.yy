@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_cyan",
-    "path":"sprites/tile_cyan/tile_cyan.yy",
+    "name":"cyan_floor",
+    "path":"sprites/cyan_floor/cyan_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

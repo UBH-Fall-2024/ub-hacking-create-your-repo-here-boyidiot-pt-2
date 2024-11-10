@@ -1,1 +1,1 @@
-array_insert(global.InventoryElements,-1, global.list[global.iter])
+array_insert(global.inventoryElements,-1, global.list[global.iter])

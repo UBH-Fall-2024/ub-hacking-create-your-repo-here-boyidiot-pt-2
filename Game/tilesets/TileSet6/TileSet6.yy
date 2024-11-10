@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_green",
-    "path":"sprites/tile_green/tile_green.yy",
+    "name":"green_floor",
+    "path":"sprites/green_floor/green_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

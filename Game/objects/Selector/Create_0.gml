@@ -4,3 +4,5 @@
 is_shown = true;
 x = view_xport[0]
 y = view_yport[0]+600
+
+idx = 0

@@ -24,8 +24,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_brown",
-    "path":"sprites/tile_brown/tile_brown.yy",
+    "name":"brown_floor",
+    "path":"sprites/brown_floor/brown_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{

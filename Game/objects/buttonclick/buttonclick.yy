@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"buy",
+    "path":"sprites/buy/buy.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

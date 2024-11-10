@@ -19,8 +19,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"tile_oak",
-    "path":"sprites/tile_oak/tile_oak.yy",
+    "name":"oak_floor",
+    "path":"sprites/oak_floor/oak_floor.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
