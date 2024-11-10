@@ -1,19 +1,26 @@
 /// @description Insert description here
 // You can write your code in this editor
+
+moving_x = 0;
+moving_y = 0;
+
 if (keyboard_check(vk_left)){
-	x = x-8;
+	moving_x = -8;
 	image_index = 3;
 	
 }
 if (keyboard_check(vk_right)){
-	x = x+8;
+	moving_x = 8;
 	image_index = 2;
 }
 if (keyboard_check(vk_up)){
-	y = y-8;
+	moving_y = -8;
 	image_index = 1;
 }
 if (keyboard_check(vk_down)){
-	y = y+8;
+	moving_y = 8;
 	image_index = 0;
 }
+
+x = x + moving_x;
+y = y + moving_y;
