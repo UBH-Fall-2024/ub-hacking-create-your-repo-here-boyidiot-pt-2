@@ -17,7 +17,7 @@ if (idx < array_length(global.inventoryElements)){
 		{
 			inst = instance_find(Floor,i);
 			if (Player.x > inst.x && Player.x < inst.x+inst.sprite_width && Player.y > inst.y && Player.y < inst.y + inst.sprite_height){
-				inst.tileSetName = spriteName;	
+				global.floorPattern[i] = spriteName;
 			}
 		}	
 	}
