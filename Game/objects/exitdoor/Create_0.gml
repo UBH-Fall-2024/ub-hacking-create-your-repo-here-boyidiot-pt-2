@@ -10,7 +10,7 @@ function interact(){
 		if(global.budget >= 0)
 			room_goto(4);
 		else
-			room_goto(5);
+			room_goto(6);
 	}
 	else
 	room_goto(3)
