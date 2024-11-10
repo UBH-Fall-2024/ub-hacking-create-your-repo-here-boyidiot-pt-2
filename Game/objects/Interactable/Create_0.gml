@@ -2,6 +2,25 @@
 // You can write your code in this editor
 
 function interact(name){
+	if(global.phaseTwo){
+		if(objectName == "light" && !global.completed[0]){
+			global.budget -= 100;
+			global.completed[0] = true;
+		}else if(objectName == "kitchen" && !global.completed[2]){
+			global.budget -= 100;
+			global.completed[2] = true;
+		}else if(objectName == "wifi" && !global.completed[1]){
+			global.budget -= 100;
+			global.completed[1] = true;
+		}else if(objectName == "juice" && !global.completed[3]){
+			global.budget -= 100;
+			global.completed[3] = true;
+		}else if(objectName == "empty" && !global.completed[4]){
+			global.budget -= 250;
+			global.completed[4] = true;
+		}
+		return;
+	}
 	if (Selector.idx < array_length(global.inventoryElements)){
 		struct = global.inventoryElements[Selector.idx];
 		sprite = struct.sprite;

@@ -13,8 +13,11 @@ global.frames = {
 	kitchen: 0,
 	couch: 0,
 	wifi: 1,
-	light: 1
+	light: 1,
+	juice: 0
 }
 
 global.tasks =["change light fixture","upgrade wifi","install smart tap","install carpeting","spend 4k"]
 global.completed=[false,false,false,false,false]
+
+global.phaseTwo = false
