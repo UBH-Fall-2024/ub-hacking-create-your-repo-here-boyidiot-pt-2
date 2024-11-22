@@ -1,7 +1,7 @@
-### RENOVATION IN WONDERLAND
+# RENOVATION IN WONDERLAND
 a gamemaker game by Sebastian Smith & Ian Westpfal
 ## Rennovate Your House
-# play through as the queen of hearts, who is rennovating a house
+### play through as the queen of hearts, who is rennovating a house
 purchase upgrades at the computer!
 
 go to your furniture and interact!
@@ -11,7 +11,7 @@ complete tasks!
 spend your budget!
 
 exit the house once you're finished
-# now, play through as alice, who is renting a house
+### now, play through as alice, who is renting a house
 experience the effects of the rennovations
 
 complete your tasks
@@ -19,14 +19,14 @@ complete your tasks
 don't forget to pay your bills
 
 ##  Experience the effects of your actions
-# part 1
+### part 1
 as the queen of hearts, the actions you choose will impact alice's experience
 
 for example, upgrading the lights
 
 if you spend under 4k, alice does not get evicted
 
-# part 2
+### part 2
 as alice, the actions the queen of hearts takes will impact your experience
 
 for example, your lights go out
